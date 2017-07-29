@@ -20253,7 +20253,7 @@ if (jQuery) {
   };
 })(jQuery);
 
-
+/*
 $(document).ready(function(){
 	$('.button-collapse').sideNav({
 		menuWidth: 170,
@@ -20262,3 +20262,4 @@ $(document).ready(function(){
 		draggable: true
 	});
 });
+*/
